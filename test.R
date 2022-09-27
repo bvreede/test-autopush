@@ -8,9 +8,10 @@ d <- "Hello world"
 print(d)
 
 ### EXERCISE ###
-# Now assign another value to a.
 
-##########
+Now assign another value to a.
+
+############
 
 
 
